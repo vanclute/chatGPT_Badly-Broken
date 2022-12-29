@@ -11,7 +11,7 @@ Since this is all generated on the fly, every playthrough can be somewhat differ
 
 To check your inventory, simply type "inventory".  To use an item, simply type "use [item]".  To pick up or drop something, just type that you want to pick up or drop it.  To look around, type "look".
 
-You can make any changes you want to the prompt, and can even adapt this very easily to any other genre/universe you would like to play in.  Feel free to keep, remove, or add elements to the prompt provided here as you see fit.
+You can make any changes you want to the prompt, and can even adapt this very easily to any other genre/universe you would like to play in.  Feel free to keep, remove, or add elements to the prompt provided here as you see fit.  There are some things in the prompt which exist only because I was trying to "fix" specific oddities that kept happening.  They may or may not succeed.
 
 To play the game, simply copy the entire text of the prompt, log into chatGPT, and paste the prompt.  That's it, follow the instructions and the adventure will begin!
 
