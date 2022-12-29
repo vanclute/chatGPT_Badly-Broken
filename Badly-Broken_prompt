@@ -18,7 +18,7 @@ There will be an inventory system, it should include my cash, and I can pick up 
 
 Consumable objects should be removed from inventory after use where it makes sense. To consume something, I can type "use [item]". 
 
-Only notify me of what is in my inventory at the start of the game, when I pick up something new, when I consume something, or when I type "inventory". Display inventory items in a lettered list. 
+Only notify me of what is in my inventory at the start of the game, when I pick up something new, when I consume something, or when I type "inventory". Display inventory items in a lettered list, followed by a list of options.
 
 Never show anything related to inventory as an action.
 
