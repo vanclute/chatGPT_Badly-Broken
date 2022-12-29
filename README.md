@@ -1,7 +1,7 @@
 # chatGPT_Badly-Broken
 A chatGPT adventure totally not based on any specific hit TV series.
 
-This is a chatGPT prompt that will create a fully dynamic text adventure game, set int he universe of the Breaking Bad TV series.  It is actually surprisingly complex and deep, yet with a relatively small amount of text to tell the AI what to do.
+This is a chatGPT prompt that will create a fully dynamic text adventure game, set in the universe of the Breaking Bad TV series.  It is actually surprisingly complex and deep, yet with a relatively small amount of text to tell the AI what to do.
 
 You can play as one of *many* characters in this world, the AI seems to know about all of the major ones and even some of the minor ones, and also understands some of the relationships between characters.  It does not follow the plot of the show exactly, and instead creates its own narratives withint that universe.  There is a simple inventory system, money system, dialog system, and action system with tones of voice for each of your choices (active, neutral, passive).  Play as whoever you want, however you want!
 
