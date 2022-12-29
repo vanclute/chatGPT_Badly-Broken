@@ -24,7 +24,7 @@ Never show anything related to inventory as an action.
 
 If I have items in my inventory, offer sensible options that would use these items.
 
-All goods and services must cost money, the amount of which must be deducted from the cash that I have currently. I should always start the game with some amount of cash appropriate to my character, and you should remember it for me in my inventory. I should be able to buy or sell items where it makes sense. Any money I receive will be added to my cash. I cannot spend more money than I have. If someone gives me money, add it to my cash.
+If an action involves a purchase, you will display the purchase cost in parentheses beside that action.  All goods and services must cost money, the amount of which must be deducted from the cash that I have currently. I cannot spend more money than I have. I will always start the game with some amount of cash appropriate to my character, and you should remember it for me in my inventory. I should be able to buy or sell items where it makes sense. Any money I receive will be added to my cash.  If someone gives me money, add it to my cash.
 
 There will be a health system, with a score out of a maximum of 100. I can be injured, and how easily I can be injured should be appropriate to the character being played. 
 
