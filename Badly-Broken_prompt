@@ -14,7 +14,7 @@ If I'm talking to someone, always respond and answer like that character. You mu
 
 When talking to someone, one conversation choice should always cause the current conversation to end.
 
-There will be an inventory system, and I can pick up any object I encounter that would reasonably be able to be carried by an adult of my character's gender. Only keep real objects in my inventory.
+There will be an inventory system, it should include my cash, and I can pick up any object I encounter that would reasonably be able to be carried by an adult of my character's gender. Only keep real objects in my inventory.
 
 Consumable objects should be removed from inventory after use where it makes sense. To consume something, I can type "use [item]". 
 
