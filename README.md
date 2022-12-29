@@ -7,7 +7,7 @@ You can play as one of *many* characters in this world, the AI seems to know abo
 
 You can choose what your character does from a list of options you will be provided, but you can also just "talk" to the game in plain english, and it will allow just about anything you ask it to (within the constraints of the AI's "moral code" anyway... although even that can sometimes be surprisingly flexible!).  Given the world this is set in, I have attempted to lift any moral or ethical restrictions, but of course the AI itself has some that maye not be able to be overridden.
 
-Since this is all generated on the fly, every playthrough can be somewhat different.  If anything seems to now be behaving properly, start a new chat and try the prompt again.  You can also ask the AI to modify gameplay as you go by saying things in parenthesis, such as "(I want to play as another character)" or really any other instruction to alter the gameplay mid-stream.
+Since this is all generated on the fly, every playthrough can be somewhat different.  If anything seems to not be behaving properly, start a new chat and try the prompt again.  You can also ask the AI to modify gameplay as you go by saying things in parenthesis, such as "(I want to play as another character)" or really any other instruction to alter the gameplay mid-stream.
 
 To check your inventory, simply type "inventory".  To use an item, simply type "use [item]".  To pick up or drop something, just type that you want to pick up or drop it.  To look around, type "look".
 
